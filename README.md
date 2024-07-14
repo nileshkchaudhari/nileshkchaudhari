@@ -10,3 +10,5 @@
 
 - Reach out to me on Linkedin: https://www.linkedin.com/in/nilesh-c-4262a7131/
 
+- https://medium.com/@nileshchaudhary999
+
