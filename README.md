@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Nilesh Chaudhari</h1>
 <!-- <h3 align="center"> Just Another Analytics Professional | AI Practitioner  </h3> -->
 
-- 🌱 I’m currently working as a **Project Co-ordinator - Data Science & Machine Learning**
+- 🌱 I’m currently working as a **AI/ML Computational Science Assosiate Manager**
 
-- 💬 Ask me about **Analytics, Data Science, Machine learning, Deep Learning, NLP, Generative AI**
+- 💬 Ask me about **RAG, Agentic AI, NLP, Generative AI, Analytics, Data Science, Machine learning, Deep Learning**
 
 - 📫 How to reach me **nileshchaudhary999@gmail.com**
 
