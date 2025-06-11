@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nilesh Chaudhari</h1>
 <!-- <h3 align="center"> Just Another Analytics Professional | AI Practitioner  </h3> -->
 
-- 🌱 I’m currently working as a **AI/ML Computational Science Assosiate Manager**
+- 🌱 I’m currently working as a **AI Engineering Assosiate Manager**
 
 - 💬 Ask me about **RAG, Agentic AI, NLP, Generative AI, Analytics, Data Science, Machine learning, Deep Learning**
 
